@@ -156,6 +156,7 @@
 - 🔧 [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 - 🔧 [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) - Gatsby starter using Tailwind CSS and Emotion JS.
 - 🔧 [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
+- 🔧 [Tailwind CSS base styles for Emotion JS](https://github.com/flogy/emotion-tailwind-preflight) - Tailwind CSS base styles to merge into Emotion JS projects.
 - 🔧 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 - 🔧🛠 [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - CRA script that adds Tailwind CSS and PurgeCSS.
 - 🔧 [Dogpatch](https://github.com/jack-pallot/dogpatch) - WordPress starter using Webpack, Vue, Babel and Tailwind CSS.
